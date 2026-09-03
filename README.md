@@ -342,7 +342,7 @@ This project demonstrates practical experience in:
 </p>
 
 ## 📊 Dashboard Preview
- <img src="fielding.png" alt="Fielding  " width="900">
+ <img src="Screenshot 2026-09-04 021207.png" alt="Fielding  " width="900">
 </p>
 
 
